@@ -1,7 +1,7 @@
 # LSDOO <img src="logo_yellow.png" width="350" title="Live streams of data over OMNIA" alt="Live streams of data over OMNIA" align="right">
 **Live streams of data over OMNIA**
 
-<br/><br/
+<br/><br/>
 - Use OMNIA to build some kind of streaming protocol , as
 over eltoo channels we can do an unlimited number of transactions we can use it to embed data on
 tokens as state vars(64k) .
